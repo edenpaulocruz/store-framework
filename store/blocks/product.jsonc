@@ -68,6 +68,10 @@
     }
   },
 
+  "shipping-simulator": {
+
+  },
+
   "product-price": {
     "props": {
       "showSavings": true,
@@ -80,6 +84,10 @@
       "showSKU": true,
       "showBrandName": true
     }
+  },
+
+  "product-identifier.product" {
+
   },
 
   "buy-button#product": {
