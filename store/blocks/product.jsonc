@@ -4,7 +4,6 @@
       "product-images", 
       "product-price",
       "product-name",
-      "product-identifier.product",
       "buy-button"
     ],
     "children": [
@@ -44,6 +43,7 @@
       "product-price",
       "flex-layout.row#qty-sku",
       "product-name",
+      "product-identifier.product",
       "buy-button",
       "shipping-simulator"
     ]
