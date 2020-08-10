@@ -44,15 +44,15 @@
       "product-price",
       "flex-layout.row#qty-sku",
       "product-name",
-      "buy-button"
+      "buy-button",
+      "shipping-simulator"
     ]
   },
 
   "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
-      "product-quantity",
-      "shipping-simulator"
+      "product-quantity"
     ]
   },
 
@@ -68,10 +68,6 @@
     }
   },
 
-  "shipping-simulator": {
-
-  },
-
   "product-price": {
     "props": {
       "showSavings": true,
@@ -84,10 +80,6 @@
       "showSKU": true,
       "showBrandName": true
     }
-  },
-
-  "product-identifier.product" {
-
   },
 
   "buy-button#product": {
